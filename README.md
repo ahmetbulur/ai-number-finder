@@ -5,7 +5,7 @@
 - Enigma used for visualization.
 - General Information :
 
-![general-info](general_info.png)
+![general-info](general-info.png)
 
 - Sample Screen :
 
